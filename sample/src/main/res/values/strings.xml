@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">TwentyFour</string>
+
+    <string name="opencards">Open card stack</string>
+    <string name="closecards">Close card stack</string>
+    <string name="reload">Reload</string>
+    <string name="addspot">Add a spot to first part</string>
+    <string name="addspotend">Add a spot to last part</string>
+    <string name="removestart">Remove a spot from first part</string>
+    <string name="removeend">Remove a spot from last part</string>
+    <string name="replacefirst">Replace first spot</string>
+    <string name="swapfirst">Change first for last</string>
+</resources>
